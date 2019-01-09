@@ -22,5 +22,7 @@ function sayHiToGrandma(string){
   }
 }
 function sayHiToGrandma(string){
-  console.log()
+  console.log("hello")
+  console.log("HELLO")
+  console.log("I love you, Grandma")
 }

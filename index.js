@@ -21,8 +21,3 @@ function sayHiToGrandma(string){
   return"I love you,too."
   }
 }
-function sayHiToGrandma(string){
-  console.log("hello")
-  console.log("HELLO")
-  console.log("I love you, Grandma")
-}
